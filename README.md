@@ -18,7 +18,7 @@ I’m an **Embedded Systems Engineer** with a passion for developing innovative 
 ## 📚 **Featured Projects**
 
 ### 🖥️ **Smart Home Automation System**
-[![Smart Home Automation]]
+Smart Home Automation
 A smart home system using **ESP32** that controls lights, fans, and appliances using a mobile app. Features:
 - Real-time control via MQTT
 - Integration with Alexa voice assistant
@@ -28,7 +28,7 @@ A smart home system using **ESP32** that controls lights, fans, and appliances u
 ---
 
 ### 🚗 **Self-Balancing Robot**
-[![Self-Balancing Robot]]
+Self-Balancing Robot
 
 A robot that uses an **Arduino** and **MPU6050** sensor to balance itself using PID control. 
 - Real-time sensor data processing
@@ -37,7 +37,7 @@ A robot that uses an **Arduino** and **MPU6050** sensor to balance itself using 
 ---
 
 ### 🌍 **IoT-Based Weather Station**
-[![IoT Weather Station]
+IoT Weather Station
 
 An **ESP8266**-based IoT system that collects environmental data such as temperature, humidity, and pressure, and sends it to a cloud server.
 - Data visualization using Grafana
