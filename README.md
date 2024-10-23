@@ -57,4 +57,4 @@ An **ESP8266**-based IoT system that collects environmental data such as tempera
 - **LinkedIn:** [Mayur Badiger](www.linkedin.com/in/mayurbadiger)
 - **Email:** mayurrbadiger@gmail.com
 
-****
+
