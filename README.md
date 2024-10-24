@@ -50,6 +50,7 @@ An **ESP8266**-based IoT system that collects environmental data such as tempera
 - **Machine Learning on Embedded Devices**
 - **RTOS (Real-Time Operating Systems) for IoT**
 - **Edge AI on Raspberry Pi**
+- **Blockchain for IoT Security**
 
 ---
 
