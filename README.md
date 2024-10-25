@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayur Rajendra Badiger !
+# 👋 Hi , I'm Mayur Rajendra Badiger !
 
 
 I’m an **Embedded Systems Engineer** with a passion for developing innovative solutions in **IoT**, **Robotics**, and **Automation**. With hands-on experience in **Arduino**, **Raspberry Pi**, and **ESP**, I love working on both hardware and software to build impactful projects. I can code in **Python**, **C**, and **Java**, and enjoy exploring new technologies to push the boundaries of embedded systems.
